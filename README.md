@@ -56,8 +56,10 @@
 <h3 class="heading-element" dir="auto">📫 Let&rsquo;s Connect!</h3>
 <a id="user-content--lets-connect" class="anchor" href="https://github.com/salsadsid#-lets-connect"></a></div>
 <ul dir="auto">
-<li>📧 Email: [<a href="mailto:salman.dnj@gmail.com">salman.dnj@gmail.com</a>]</li>
-<li>💼 LinkedIn:&nbsp;<a href="https://linkedin.com/in/salsadsid" rel="nofollow">linkedin.com/in/salsadsid</a></li>
+<li>📧 Email: [<a href="mailto:atiqur.dnj@gmail.com
+">atiqur.dnj@gmail.com
+</a>]</li>
+<li>💼 LinkedIn:&nbsp;<a href="https://linkedin.com/in/salsadsidd" rel="nofollow">linkedin.com/in/salsadsidd</a></li>
 <li>💻 GitHub:&nbsp;<a href="https://github.com/salsadsid">github.com/salsadsid</a></li>
 <li>📍 Location: Rangpur, Bangladesh</li>
 </ul>
