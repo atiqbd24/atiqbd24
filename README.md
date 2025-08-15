@@ -60,7 +60,7 @@
 ">atiqur.dnj@gmail.com
 </a>]</li>
 <li>💼 LinkedIn:&nbsp;<a href="https://linkedin.com/in/salsadsidd" rel="nofollow">linkedin.com/in/salsadsidd</a></li>
-<li>💻 GitHub:&nbsp;<a href="https://github.com/salsadsid">github.com/salsadsid</a></li>
+<li>💻 GitHub:&nbsp;<a href="https://github.com/atiqbd24">github.com/atiqbd24</a></li>
 <li>📍 Location: Rangpur, Bangladesh</li>
 </ul>
 <hr />
