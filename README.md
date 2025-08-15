@@ -60,7 +60,7 @@
 ">atiqur.dnj@gmail.com
 </a>]</li>
 <li>💼 LinkedIn:&nbsp;<a href="https://linkedin.com/in/atiqdj" rel="nofollow">linkedin.com/in/atiqdj</a></li>
-<li>💻 GitHub:&nbsp;<a href="https://github.com/atiqbd24">github.com/atiqdj</a></li>
+<li>💻 GitHub:&nbsp;<a href="https://github.com/atiqbd24">github.com/atiqurdnj</a></li>
 <li>📍 Location: Rangpur, Bangladesh</li>
 </ul>
 <hr />
