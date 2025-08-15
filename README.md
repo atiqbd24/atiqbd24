@@ -9,7 +9,7 @@
 <hr />
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto">🔧 Tech Stack</h3>
-<a id="user-content--tech-stack" class="anchor" href="https://github.com/salsadsid#-tech-stack"></a></div>
+<a id="user-content--tech-stack" class="anchor" href="https://github.com/atiqdj#-tech-stack"></a></div>
 <p dir="auto"><strong>Frontend</strong></p>
 <ul dir="auto">
 <li>React.js | Next.js | Redux Toolkit</li>
@@ -54,19 +54,19 @@
 <hr />
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto">📫 Let&rsquo;s Connect!</h3>
-<a id="user-content--lets-connect" class="anchor" href="https://github.com/salsadsid#-lets-connect"></a></div>
+<a id="user-content--lets-connect" class="anchor" href="https://github.com/atiqdj#-lets-connect"></a></div>
 <ul dir="auto">
 <li>📧 Email: [<a href="mailto:atiqur.dnj@gmail.com
 ">atiqur.dnj@gmail.com
 </a>]</li>
-<li>💼 LinkedIn:&nbsp;<a href="https://linkedin.com/in/salsadsidd" rel="nofollow">linkedin.com/in/salsadsidd</a></li>
-<li>💻 GitHub:&nbsp;<a href="https://github.com/atiqbd24">github.com/atiqbd24</a></li>
+<li>💼 LinkedIn:&nbsp;<a href="https://linkedin.com/in/atiqdj" rel="nofollow">linkedin.com/in/atiqdj</a></li>
+<li>💻 GitHub:&nbsp;<a href="https://github.com/atiqbd24">github.com/atiqdj</a></li>
 <li>📍 Location: Rangpur, Bangladesh</li>
 </ul>
 <hr />
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto">⚡ Fun Fact:</h3>
-<a id="user-content--fun-fact" class="anchor" href="https://github.com/salsadsid#-fun-fact"></a></div>
+<a id="user-content--fun-fact" class="anchor" href="https://github.com/atiqdj#-fun-fact"></a></div>
 <p dir="auto">When I'm not coding, you'll find me swinging a cricket bat, lost in a book, or planning my next travel adventure 🌍</p>
 <hr />
 <p dir="auto">Thanks for visiting my profile! If you like what I do, feel free to ⭐ some of my repos or connect with me on LinkedIn!</p>
